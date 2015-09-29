@@ -11,7 +11,7 @@ body{
     color: white;
     text-align:center;
     padding:1%;
-    margin-bottom: 40%;
+   
 }
 h1 {
 	color: red;
@@ -33,15 +33,9 @@ ul{
 ul li {
 	list-style-position: inside;
 }
-.profImage {
-	max-width: 20%;
-	max-height: auto;
+img {
+	max-width: 30%;
+	height: auto;
+	padding: 5%;	
 }
-#image {
-	max-width: 20%;
-	max-height: auto;
-	position: absolute;
-    top: 0; bottom:0; left: 0; right:0;
-    margin: auto;
-    display: block;
-}
+
