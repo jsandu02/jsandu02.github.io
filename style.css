@@ -20,13 +20,18 @@ body {
 }
 
 .bio {
-	max-width: 40%;
-	margin-left: 30%;
+	max-width: 70%;
+	margin-left: 15%;
 	font-size: 200%;
 }
 
 h1 {
 	color: #FEFEF2;
+}
+
+h2 {
+	color:#FEFEF2;
+	font-size: 170%;
 }
 
 h3 {
@@ -47,7 +52,6 @@ a {
 	letter-spacing: 2%;
 	padding: 2%;
 	font-size: 100%;
-
 }
 
 p {
